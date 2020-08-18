@@ -3,6 +3,7 @@ Author:       Sheon Xu
 Date Created: 18.8.2020
 Last Updated: 18.8.2020
 Title:        Loop
+Description:  Print the numbers 1 through 10 using while and for loops.
 */
 
 public class Loop {
